@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Hanken Grotesk", system-ui, sans-serif;
+  background-color: #fbf9f5;
+  color: #292011;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* qiymetlerde reqemlerin eyni eni tutmasi ucun */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
