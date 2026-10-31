@@ -1,5 +1,5 @@
 # Maitre — Məhsullar paneli
-'https://maitre-task-admin-panel.vercel.app/'
+'https://maitre-task.vercel.app/'
 
 Restoran admin panelinin məhsullar səhifəsi. React + TypeScript + Vite.
 
