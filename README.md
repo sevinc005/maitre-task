@@ -1,4 +1,5 @@
 # Maitre — Məhsullar paneli
+'https://maitre-task-admin-panel.vercel.app/'
 
 Restoran admin panelinin məhsullar səhifəsi. React + TypeScript + Vite.
 
@@ -69,7 +70,7 @@ src/
 
 ## Sərf olunan vaxt
 
-Təxminən _X_ saat.
+Təxminən 3 saat.
 
 ## Daha çox vaxt olsaydı
 
